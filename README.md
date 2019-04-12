@@ -1,1 +1,1 @@
-# NewBS19
+# NewBS19 add frontend HW
